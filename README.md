@@ -5,7 +5,7 @@ This program will create playlists on Google Music every week with the 100 most 
 This program is written for Python 3.5, it has only one dependency which can be installed with 
 
 ``
-pip install gmusicapi
+pip install gmusicapi billboard.py
 ``
 
 To run this program simply execute with email and password for google music
